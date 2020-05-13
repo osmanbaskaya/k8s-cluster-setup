@@ -128,7 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-templates/*.pem
-templates/*.csr
-*/*.kubeconfig
-cert/
+*.pem
+*.csr
+*.kubeconfig
+*.project-id.txt
+.idea
